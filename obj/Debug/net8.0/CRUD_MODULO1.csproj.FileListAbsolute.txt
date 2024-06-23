@@ -1,0 +1,14 @@
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\bin\Debug\net8.0\CRUD_MODULO1.exe
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\bin\Debug\net8.0\CRUD_MODULO1.deps.json
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\bin\Debug\net8.0\CRUD_MODULO1.runtimeconfig.json
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\bin\Debug\net8.0\CRUD_MODULO1.dll
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\bin\Debug\net8.0\CRUD_MODULO1.pdb
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\CRUD_MODULO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\CRUD_MODULO1.AssemblyInfoInputs.cache
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\CRUD_MODULO1.AssemblyInfo.cs
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\CRUD_MODULO1.csproj.CoreCompileInputs.cache
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\CRUD_MODULO1.dll
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\refint\CRUD_MODULO1.dll
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\CRUD_MODULO1.pdb
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\CRUD_MODULO1.genruntimeconfig.cache
+C:\Users\ALEX D VALLEJOS\source\repos\CRUD_MODULO1\obj\Debug\net8.0\ref\CRUD_MODULO1.dll
